@@ -15,7 +15,7 @@ public class Main {
 //    Joseph Webb webb@gmail.com
 //    Katie Jacobs
 
-//        HashMap for Inverted Index and save memory
+//        Map for Inverted Index and save memory
 //        Key(String) ---> Value (List<Integer>)
 //        Dwight                [0]
 //        Joseph                [0,1]
