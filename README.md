@@ -1,4 +1,4 @@
-# Simple Search Engine :flashlight: :face_with_monocle:
+# Simple Search Engine :flashlight: :open_file_folder:
 
 This project takes care of reading a people.txt file that contains a list of people with; first name, last name and email.
 
